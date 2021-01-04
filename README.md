@@ -1,2 +1,5 @@
 # hello-world1
-tutorial repositorty
+
+Hi 
+
+here, i like NODE,js and Coffeescript
